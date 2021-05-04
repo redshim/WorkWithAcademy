@@ -1,5 +1,7 @@
 # WorkWithAcademy
 
+https://console.aws.amazon.com/rds/home?region=us-east-1#database:id=dmslabinstance;is-cluster=false
+
 CREATE OR REPLACE STREAM "DESTINATION_SQL_STREAM"
 (RiskSubCategory VARCHAR(20), maxNetLoss DOUBLE, maxRecoveryAmount DOUBLE);
 CREATE OR REPLACE PUMP "STREAM_PUMP_1" AS
