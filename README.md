@@ -1,5 +1,10 @@
 # WorkWithAcademy
 
+
+https://s3.amazonaws.com/sinjoonk-lab/hol/scripts/BigDataHoL-ver0.3.yaml
+
+
+
 https://dashboard.eventengine.run/login?hash=1903-031f8b5de4-bd
 
 
