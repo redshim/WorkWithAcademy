@@ -1,7 +1,6 @@
 # WorkWithAcademy
 
-https://console.aws.amazon.com/dms/v2/home?region=useast-1#createReplicationInstance
-
+https://console.aws.amazon.com/dms/v2/home?region=useast-1#createNewEndpoint
 ## Usage
 
 To use the Slate theme:
