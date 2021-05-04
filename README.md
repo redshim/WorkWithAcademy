@@ -1,5 +1,18 @@
 # WorkWithAcademy
 
+CREATE OR REPLACE STREAM "DESTINATION_SQL_STREAM"
+(RiskSubCategory VARCHAR(20), maxNetLoss DOUBLE, maxRecoveryAmount DOUBLE);
+CREATE OR REPLACE PUMP "STREAM_PUMP_1" AS
+INSERT INTO "DESTINATION_SQL_STREAM"
+SELECT
+STREAM "RiskSubCategory",
+MAX("NetLoss"),
+MAX("RecoveryAmount")
+FROM "SOURCE_SQL_STREAM_001"
+GROUP BY
+STEP("SOURCE_SQL_STREAM_001".ROWTIME BY INTERVAL '10' SECOND),
+"RiskSubCategory";
+
 
 https://s3.amazonaws.com/sinjoonk-lab/hol/scripts/BigDataHoL-ver0.3.yaml
 
