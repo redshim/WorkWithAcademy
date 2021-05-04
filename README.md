@@ -1,31 +1,6 @@
 # WorkWithAcademy
 
-https://console.aws.amazon.com/rds/home?region=us-east-1#database:id=dmslabinstance;is-cluster=false
-
-CREATE OR REPLACE STREAM "DESTINATION_SQL_STREAM"
-(RiskSubCategory VARCHAR(20), maxNetLoss DOUBLE, maxRecoveryAmount DOUBLE);
-CREATE OR REPLACE PUMP "STREAM_PUMP_1" AS
-INSERT INTO "DESTINATION_SQL_STREAM"
-SELECT
-STREAM "RiskSubCategory",
-MAX("NetLoss"),
-MAX("RecoveryAmount")
-FROM "SOURCE_SQL_STREAM_001"
-GROUP BY
-STEP("SOURCE_SQL_STREAM_001".ROWTIME BY INTERVAL '10' SECOND),
-"RiskSubCategory";
-
-
-https://s3.amazonaws.com/sinjoonk-lab/hol/scripts/BigDataHoL-ver0.3.yaml
-
-
-
-https://dashboard.eventengine.run/login?hash=1903-031f8b5de4-bd
-
-
-https://forms.gle/46UEYVKqjtoKk8Xm9
-
-https://signin.aws.amazon.com/federation?Action=login&Issuer=localhost&Destination=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3Fregion%3Dus-east-1&SigninToken=67WXEHpPCDtNX0ztvmvkOUBFSedyewa_Sezkw9esjL8i2cgI6JWLZ8R88G-WMK3DzNb0Jo_CmR2xTKDigDGfXVXljDts-b0sQIhAmL8bH-eROfSI--nviYJMksy97nPshZ0Ac9Cm4cDZ8JnVC5XVEWrA5wK6mu07Bh7iqA7FDPqBePiNHsB62P6iti4FSmf9NYwV_adUvpCJNYGNLW8h5-XjZQZHP89-EdpG2GSJySe94XaCWp2iwE1osfI_7viK08RAR6-RhrsR75PVOcRVKFfAXDhDYoNstYG5pFg_b7vQrkSxXtlfDEgfdGbbcK4qos67diI-vvA1fz1Au5CmmjkcLbSYwcNKwcNWdqVNnbPIlGi8i6-PxiHrOWc6QBz49SOGMRxOxoKFLsMjplJn33Q3gpaA6XkgdfvN5tHl_5F9opZ1dOYsfTcgDcigslUpm46xbFsXwiO7J4yodBM8DP6wvu3Bt0MpQ8eFKLh3HnSxx8koMLbK_TiMBpIewBA37DjDPIT78tXYdFA6eADhFoNaL4Vsi_sHPJCXncJSKSsPQejreCdSmjgWn_LLwEMF8LZrDHqqw4D0nISI00_sHFTJ6JSKo_8nXUT6BBpaBr3HxsZZCIf-h2ZF7fPWDfM2bNhAbij1w6dTWqflH4mqrWmWhwmKaS-BxHxulezAE4NPCuqdps9Bz1wJs0pb7_z3Qkc5O3pS6r6mcie28oYOR-nPaEzaKDMzatgSCEGLhfr0rz47XR1BCza9mmGQVBD1hNAyB-nzDz8F12l0Fg9MN0m_o6jbqQmhoElxPSiU1ErnPxwkI-07i32aFS0HN9EtHB19mJOCuK6P3CqAtNtOyE9__tgwnwyetbXjgZeRMdMIlpwS-t3rhOtXtIebQy6sP9I2kta6tJVa4f-D50QN-skWu7P565fYn_mThrGG1gPEu-euCFmRusx5W9kxm0pjBRgDINwTevttSwO1Tt5DrM3PFoopfKnEYVd6u3xr6ODVrFIFVGCduupNKwf85wjW94ja3EKmQUx63vwntXF30g23s1-gY7kK3_qmgbr6ioSq0Z7S9DbU7FzTNcZIZHyIoIZsfwYihW5eJlrmsOdPp196YPKc_Ky4YuJolxHupbmQeRPKv8oTx1pKz3qX2XAINGB5rqwHjc6QA0vQXdCh0EYj3Yn5LVBcLeoyxu7Rv0bkkQo8K_1_rm7r97tvzv844dVYbP6moRmjICLJJGVp-ur3y7ggW0n4BWOKUagmkGM6rCR3Rn4vzclnw-J3-wYdGljB_55hJyP6ubAeG7sjlrkKhUOwaXccfZgIDLx8ODrQEYa9_bSVZ1TRN5aQg3qXNnMB302xlMOQD4xhcsEIbeHevBZaxXiM3eaqtOOvzE0QEu2SyAyxeZ9DyEeZdWEM7X5gLPmzYfM46mWDZoXd3F8D4Q
+https://console.aws.amazon.com/dms/v2/home?region=useast-1#createSubnetGroup
 
 ## Usage
 
