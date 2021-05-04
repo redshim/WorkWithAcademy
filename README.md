@@ -1,6 +1,12 @@
 # WorkWithAcademy
 
-https://console.aws.amazon.com/dms/v2/home?region=useast-1#createNewEndpoint
+https://console.aws.amazon.com/dms/v2/home?region=us-east-1#createNewEndpoint
+
+
+https://console.aws.amazon.com/dms/v2/home?region=useast-1#CreateNewTask
+
+https://s3.console.aws.amazon.com/s3/home?region=us-east-1
+
 ## Usage
 
 To use the Slate theme:
