@@ -1,7 +1,5 @@
 # WorkWithAcademy
-
-https://console.aws.amazon.com/sagemaker/home?region=us-east-1#/notebook-instances/openNotebook/mfgboost-170?view=lab
-
+https://mathworksevent.webex.com/mathworksevent/onstage/g.php?s_v1=39241&elqem=3481804_EM_KR_SEM_21-07_PUBLIC-SEMINAR-DL-ONLINE-PART-1_REM&MTID=efc7339eecb989120025cb6b55dc8868e&elqTrackId=d0e8a41b701a4dbcad855c5b1ba81fa0&elq=96f65682a08442cc85ad4bd5afa56885&elqaid=39241&elqat=1&elqCampaignId=14177
 
 
 ## Usage
