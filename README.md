@@ -1,6 +1,8 @@
 # WorkWithAcademy
 https://mathworksevent.webex.com/mathworksevent/onstage/g.php?s_v1=39241&elqem=3481804_EM_KR_SEM_21-07_PUBLIC-SEMINAR-DL-ONLINE-PART-1_REM&MTID=efc7339eecb989120025cb6b55dc8868e&elqTrackId=d0e8a41b701a4dbcad855c5b1ba81fa0&elq=96f65682a08442cc85ad4bd5afa56885&elqaid=39241&elqat=1&elqCampaignId=14177
 
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzcxZDNhODAtNDhkZC00YTg2LWJkOTAtNWZiOTU4ZjdjMjc1%40thread.v2/0?context=%7b%22Tid%22%3a%220ae51e19-07c8-4e4b-bb6d-648ee58410f4%22%2c%22Oid%22%3a%22379e0866-a2d6-41f6-8076-5143e081661d%22%7d
+
 
 https://dashboard.eventengine.run/login?hash=33f6-07c5e43834-e2
 
