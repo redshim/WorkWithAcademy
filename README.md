@@ -1,20 +1,6 @@
 # WorkWithAcademy
 
-https://teams.microsoft.com/l/meetup-join/19%3avQjCFLoHcGfMNYLdR2FlbGDya5Wqkr0iPRrJfK5Nq2c1%40thread.tacv2/1623826796341?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%2265c7072b-9a63-45f9-8950-037c5254e560%22%7d
-
-
-
-
-https://mathworksevent.webex.com/mathworksevent/onstage/g.php?s_v1=39241&elqem=3481804_EM_KR_SEM_21-07_PUBLIC-SEMINAR-DL-ONLINE-PART-1_REM&MTID=efc7339eecb989120025cb6b55dc8868e&elqTrackId=d0e8a41b701a4dbcad855c5b1ba81fa0&elq=96f65682a08442cc85ad4bd5afa56885&elqaid=39241&elqat=1&elqCampaignId=14177
-
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzcxZDNhODAtNDhkZC00YTg2LWJkOTAtNWZiOTU4ZjdjMjc1%40thread.v2/0?context=%7b%22Tid%22%3a%220ae51e19-07c8-4e4b-bb6d-648ee58410f4%22%2c%22Oid%22%3a%22379e0866-a2d6-41f6-8076-5143e081661d%22%7d
-
-
-https://dashboard.eventengine.run/login?hash=33f6-07c5e43834-e2
-
-
-
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWU3N2M2YWEtNmQ0OC00NTFkLTlhMmUtOGJlODFlNDM5OTRk%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%2265c7072b-9a63-45f9-8950-037c5254e560%22%7d
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDJjOTgzOTMtMzM5Yi00Nzc3LWI3YmYtMTI5NmE0YWQ1OTgx%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%2227ce11b2-fccd-4607-8080-229cccdfc8f5%22%7d
 
 ## Usage
 
