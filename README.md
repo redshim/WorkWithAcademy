@@ -1,5 +1,16 @@
 # WorkWithAcademy
 
+
+1
+https://teams.live.com/meet/95634907072685
+
+2
+https://teams.live.com/meet/9585495868116
+
+3
+https://teams.live.com/meet/95488974966484
+
+
 https://padlet.com/hwangmk/830val4gexw980b1
 
 
