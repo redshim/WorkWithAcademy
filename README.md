@@ -1,24 +1,6 @@
 # WorkWithAcademy
 
-
-1
-https://teams.live.com/meet/95634907072685
-
-2
-https://teams.live.com/meet/9585495868116
-
-3
-https://teams.live.com/meet/95488974966484
-
-
-https://padlet.com/hwangmk/830val4gexw980b1
-
-
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDdjMTU2MzktYjYwZS00OTIzLTlhZTEtOGJlNjliYjA0OTNm%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%22dcf710ac-e130-46ad-9332-c235123d23cb%22%7d
-
-https://ford.webex.com/ford/j.php?MTID=m756b8f5658d62881c3dc76cd7e91922b
-
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjkwOGRmNWMtMDQ3Mi00ODZhLThiOWMtYTBhOWM2ZmU2Zjg5%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%22cef99daf-b661-42eb-9323-3ebc9a33b67d%22%7d
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzU2ZmMwYTktZWQyYS00NTE2LWEzNzItMWRjOGNlYWY0MDRl%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%221ade6805-58eb-429e-9815-acf002d37e7d%22%7d
 
 
 ## Usage
