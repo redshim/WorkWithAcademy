@@ -1,5 +1,7 @@
 # WorkWithAcademy
 
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjMxYjI3MmYtNzAyOS00NGQyLWEwOGItYTFhNjFmMDBkZDM5%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%2227ce11b2-fccd-4607-8080-229cccdfc8f5%22%7d
+
 https://snowflake.zoom.us/s/88944565573?pwd=azFKeU1wWTVrZlFHaXh1NnU0TW5KZz09
 
 https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTExNzg1NDQtOTFhYS00Y2EyLThkOTUtMjcyOWVmMDJmNzFm%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%2265c7072b-9a63-45f9-8950-037c5254e560%22%7d
