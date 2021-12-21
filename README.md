@@ -1,17 +1,5 @@
 # WorkWithAcademy
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjZhYWJiNjctZTA4Zi00MDM0LWEwMmMtMjg3MGI3ZjU0Y2Y2%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%2265c7072b-9a63-45f9-8950-037c5254e560%22%7d
-
-https://teams.microsoft.com/l/meetup-join/19%3avQjCFLoHcGfMNYLdR2FlbGDya5Wqkr0iPRrJfK5Nq2c1%40thread.tacv2/1623826796341?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%2265c7072b-9a63-45f9-8950-037c5254e560%22%7d
-
-
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjMxYjI3MmYtNzAyOS00NGQyLWEwOGItYTFhNjFmMDBkZDM5%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%2227ce11b2-fccd-4607-8080-229cccdfc8f5%22%7d
-
-https://snowflake.zoom.us/s/88944565573?pwd=azFKeU1wWTVrZlFHaXh1NnU0TW5KZz09
-
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTExNzg1NDQtOTFhYS00Y2EyLThkOTUtMjcyOWVmMDJmNzFm%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%2265c7072b-9a63-45f9-8950-037c5254e560%22%7d
-
-
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjZmYzNkNzgtODI4OS00NzA5LWI0NDktNDM3MTFlM2NiNjU2%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%2254429b13-878b-49f6-8bb0-29023eb09fe5%22%7d
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjQ1Y2Q0NzAtYzk3OC00Y2M5LWFkMTctYTE1Njc0MTY1NWVm%40thread.v2/0?context=%7b%22Tid%22%3a%2201acd45f-97ff-4539-aa93-d2bcf027f631%22%2c%22Oid%22%3a%22d35e572e-c488-46d5-bed6-3103a0b427b4%22%7d
 
 
 ## Usage
