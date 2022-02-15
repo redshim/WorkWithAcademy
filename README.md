@@ -1,6 +1,5 @@
 # WorkWithAcademy
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjQ1Y2Q0NzAtYzk3OC00Y2M5LWFkMTctYTE1Njc0MTY1NWVm%40thread.v2/0?context=%7b%22Tid%22%3a%2201acd45f-97ff-4539-aa93-d2bcf027f631%22%2c%22Oid%22%3a%22d35e572e-c488-46d5-bed6-3103a0b427b4%22%7d
-
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTU2MWRmNTctNWU5NC00ODNiLTlmNDUtM2Q3MzJlMmE2MmIx%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%22cef99daf-b661-42eb-9323-3ebc9a33b67d%22%7d
 
 ## Usage
 
