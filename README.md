@@ -1,5 +1,5 @@
 # WorkWithAcademy
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTU2MWRmNTctNWU5NC00ODNiLTlmNDUtM2Q3MzJlMmE2MmIx%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%22cef99daf-b661-42eb-9323-3ebc9a33b67d%22%7d
+http://www-sop.inria.fr/members/Freddy.Lecue/presentation/aaai_2022_xai_tutorial.pdf
 
 ## Usage
 
