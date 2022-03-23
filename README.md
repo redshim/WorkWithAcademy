@@ -1,5 +1,4 @@
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjRmZmQ4MjAtOTY1OC00ZGQyLWE1ODEtMjQzZWIwOTg0MThm%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%2205fbd8b2-2780-4ec7-8c39-a641ebba869b%22%7d
-
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDM1NWE2ODUtZTg4OS00NDVhLTg5MjEtYTQ1OGY3OTNhZTdl%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%22cef99daf-b661-42eb-9323-3ebc9a33b67d%22%7d
 # WorkWithAcademy
 http://www-sop.inria.fr/members/Freddy.Lecue/presentation/aaai_2022_xai_tutorial.pdf
 
