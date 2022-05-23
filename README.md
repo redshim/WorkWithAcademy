@@ -1,3 +1,11 @@
+
+Monday, 23 May, 2022 9:00 KST | 8 hours
+https://jftraining.webex.com/jftraining/j.php?MTID=m3ac24bd61584f251bbed89245de7d4c0
+
+Meeting number: 2396 776 3053Password: E32McPXiTV5
+
+
+
 https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDM1NWE2ODUtZTg4OS00NDVhLTg5MjEtYTQ1OGY3OTNhZTdl%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%22cef99daf-b661-42eb-9323-3ebc9a33b67d%22%7d
 # WorkWithAcademy
 http://www-sop.inria.fr/members/Freddy.Lecue/presentation/aaai_2022_xai_tutorial.pdf
