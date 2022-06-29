@@ -1,4 +1,6 @@
 
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzU0ZjMxNjktYWY0Mi00ZTE1LWE3ZWMtZTI4YTg4ZjU5MTlm%40thread.v2/0?context=%7b%22Tid%22%3a%2201acd45f-97ff-4539-aa93-d2bcf027f631%22%2c%22Oid%22%3a%225b48f9d3-40ce-4ee9-a6db-a7bfa0bb1c00%22%7d
+
 Monday, 23 May, 2022 9:00 KST | 8 hours
 https://jftraining.webex.com/jftraining/j.php?MTID=m3ac24bd61584f251bbed89245de7d4c0
 
