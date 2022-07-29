@@ -1,12 +1,7 @@
+[
+](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWZkOWYwYTEtMmNmMy00NDZkLThlN2ItOTkzODcxOWRiYmZm%40thread.v2/0?context=%7b%22Tid%22%3a%229151cbaa-fc6b-4f48-89bb-8c4a71982138%22%2c%22Oid%22%3a%2208e61fa3-9395-490a-bc33-7eb9cf99a8cf%22%7d)
 
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzU0ZjMxNjktYWY0Mi00ZTE1LWE3ZWMtZTI4YTg4ZjU5MTlm%40thread.v2/0?context=%7b%22Tid%22%3a%2201acd45f-97ff-4539-aa93-d2bcf027f631%22%2c%22Oid%22%3a%225b48f9d3-40ce-4ee9-a6db-a7bfa0bb1c00%22%7d
 
-
-(https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWZkOWYwYTEtMmNmMy00NDZkLThlN2ItOTkzODcxOWRiYmZm%40thread.v2/0?context=%7b%22Tid%22%3a%229151cbaa-fc6b-4f48-89bb-8c4a71982138%22%2c%22Oid%22%3a%2208e61fa3-9395-490a-bc33-7eb9cf99a8cf%22%7d)
-Monday, 23 May, 2022 9:00 KST | 8 hours
-https://jftraining.webex.com/jftraining/j.php?MTID=m3ac24bd61584f251bbed89245de7d4c0
-
-Meeting number: 2396 776 3053Password: E32McPXiTV5
 
 
 
