@@ -1,7 +1,4 @@
-1 https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzM4NzNhMDctOTRiYi00N2VmLWEyM2ItNzQxODE0MmJmMjcw%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%22affabc33-4401-413b-910c-b5c83d904724%22%7d
-
-2 https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGJhMjgyY2YtMWRjYy00YTUwLTk1MzMtMzMxMmQ4NWM1NDIx%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%2205fbd8b2-2780-4ec7-8c39-a641ebba869b%22%7d
-
+연구소 미래 전략 및 방향성을 관점으로 선행기술 개발 측면의 다양한 과제를 리딩하셨고, Software Defined Vehicle 관점의 독자 기술력 확보 및 선행기술 선도하는 프로젝트를 중점적으로 수행하셨습니다. 특히, 선행기술개발의 유용성을 차량데이터를 활용하여 증명하기 위해서 데이터 활용관점으로 디지털엔지니어링센터와의 적극적인 협업을 강조하여 센터 간의 협업 아이템을 발굴하고 기술개발 단계의 역할분담을 통한 부문간 시너지 확보를 위해서 노력하셨다고 생각합니다. 그 결과로 인공지능 학회 게재를 통해 대외적으로 인정받는 결과를 도출하였습니다. 향후에도 적극적인 기술개발협업을 통해 다양한 기술 과제 협업 아이템을 발굴하고 성공적으로 의미 있는 결과를 도출하여 상호간 윈윈하는 결과물 도출할 수 있게 지원/리딩해주실 것이라 생각합니다
 
 
 
