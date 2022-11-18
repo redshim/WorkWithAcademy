@@ -1,5 +1,15 @@
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTk4ZDg1YjEtOTA1ZC00ZWZjLWJjOTAtODgzYTIyNDRjMGRl%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%2205fbd8b2-2780-4ec7-8c39-a641ebba869b%22%7d
+11시
 
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGU2NDQyNGMtODFiNC00ZmY1LWE3NGQtYmRlMDY4NThmZWQw%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%2205fbd8b2-2780-4ec7-8c39-a641ebba869b%22%7d
+
+
+https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_OGU2NDQyNGMtODFiNC00ZmY1LWE3NGQtYmRlMDY4NThmZWQw%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522f85ca5f1-aa23-4252-a83a-443d333b1fe7%2522%252c%2522Oid%2522%253a%252205fbd8b2-2780-4ec7-8c39-a641ebba869b%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=1c7532df-3fb3-4181-ad40-cdae9680da84&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+
+
+2시
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDdkMzhjODQtMGMyOC00NWNmLWI1OGItNjc1MDYyZjY0Y2Yx%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%2205fbd8b2-2780-4ec7-8c39-a641ebba869b%22%7d
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDdkMzhjODQtMGMyOC00NWNmLWI1OGItNjc1MDYyZjY0Y2Yx%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%2205fbd8b2-2780-4ec7-8c39-a641ebba869b%22%7d
 
 
 ## Usage
