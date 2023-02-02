@@ -1,5 +1,5 @@
-[2023-01-20 오후 2:13] 신종훈 책임연구원 주행데이터솔루션팀: 
-https://teams.microsoft.com/l/meetup-join/19:1bc53bc8fff34d5d9156d6bd689332cf@thread.tacv2/1674191632048?context=%7B%22Tid%22:%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22,%22Oid%22:%22985f5e75-b28c-46ca-a26d-dc6c28e7f072%22%7D
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzEyYjFjZTQtODQwZC00ZGJlLWIyZTItNzJkZWFjZDkxYTU2%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%2205fbd8b2-2780-4ec7-8c39-a641ebba869b%22%7d
+
 
 
 
