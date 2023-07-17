@@ -1,13 +1,16 @@
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWJkNTU0NjUtN2I1NS00NmMzLWIzYTAtYmJjMmJhNWZkZWZm%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%2267afd588-353a-47ad-ab88-716d9522955b%22%7d
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTMzZDA3ZjItZTZiNy00MDdhLThkZDEtYmRlMmNhOWM1MDFh%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%22caae69d0-a87f-40b4-995c-550d76106178%22%7d
+
+
+
+
+
+
+
 
 
 
 
 https://opendrivelab.com/AD23Challenge.html
-
-
-
-
 https://drive.google.com/file/d/11Ky0z0RKp7Uzh1mOpd9Mr5mk_dZjW387/view?usp=sharing
 
 
