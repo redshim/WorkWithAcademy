@@ -1,6 +1,6 @@
-[
+[[
 https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzVjYTk3MWQtNjg4NC00ODZlLThkODktZDE2NGJjNjVkMjE3%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%22aa7a5d1a-1f5f-409d-8d20-53e1b329479e%22%7d](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmNmZTU5N2UtYWNlOC00MDVkLTg3NWQtNjM0MWJlZmQzMGJi%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%22caae69d0-a87f-40b4-995c-550d76106178%22%7d)
-====
+====](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjMyY2JmMTgtZWZkZC00OWI1LTg5YzctMzY2MTEzY2Q4NmI4%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%2205fbd8b2-2780-4ec7-8c39-a641ebba869b%22%7d)
 
 
 
@@ -39,13 +39,14 @@ https://drive.google.com/file/d/11Ky0z0RKp7Uzh1mOpd9Mr5mk_dZjW387/view?usp=shari
 
 To use the Slate theme:
 
-1. Add the following to your site's `_config.yml`:
+1. Add the following to y
+2. our site's `_config.yml`:
 
     ```yml
     theme: jekyll-theme-slate
     ```
 
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
+3. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
 
     ```ruby
     gem "github-pages", group: :jekyll_plugins
