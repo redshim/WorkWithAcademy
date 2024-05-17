@@ -2,6 +2,9 @@
 https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/use-cases/retrieval-augmented-generation/multimodal_rag_langchain.ipynb
 
 
+gemini/use-cases/retrieval-augmented-generation/multimodal_rag_langchain.ipynb
+
+
 
 !!!!!!
 
