@@ -1,4 +1,6 @@
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmVmNzMxNmItMzA5My00NzM2LWJhNDItMmQ4NjMyM2U5MjMw%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%22cef99daf-b661-42eb-9323-3ebc9a33b67d%22%7d
+
+https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/use-cases/retrieval-augmented-generation/multimodal_rag_langchain.ipynb
+
 
 
 !!!!!!
