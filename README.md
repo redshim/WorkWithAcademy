@@ -1,27 +1,8 @@
-미국등록특허 10915764는 영상을 통해 획득된 도로 표면의 상태를 검출하도록 구성된 특허로서, 
-
-등록청구항에 따르면 A road surface detecting 하는 구성에서는, 
-
-획득된 노면의 이미지를 분할하여 학습시키고, 
-
-도로 표면 이벤트를 분류하도록 구성된 분류장치로 구성됩니다.
+#
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTdhYmZmNjAtMWJhNC00YjNlLWJiMWMtNTQyN2Q1NThmZDI3%40thread.v2/0?context=%7b%22Tid%22%3a%22f85ca5f1-aa23-4252-a83a-443d333b1fe7%22%2c%22Oid%22%3a%22c89f7e17-4448-4f67-a061-cb7ad2725282%22%7d
+#
 
 
-그 외 독립항에서는 해당 도로 표면의 상태에 한정사항이 없으며, 
-
-이에 따라 도로의 파손, 횡단보고, 과속방지턱 및 기타 사항들을 폭 넓게 특허 적용이 가능합니다.
-
-
-이와 같은 구성은 자사에서 출시되거나 예정인 차량 뿐만 아니라, 
-
-경쟁사 브랜드에서 출시될 자율주행차량등에서도
-
-운전자의 운전 보조 수단으로 활용되거나,
-
-자율주행레벨 0~5 사이의 모든 차량에 탑재되어 적용가능합니다.
-
-
-이에 따라, 적극적으로 본 특허를 확보/유지하여 자사의 특허경쟁력 강화에 활용되는것이 바람직합니다.
 
 
 https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/use-cases/retrieval-augmented-generation/multimodal_rag_langchain.ipynb
