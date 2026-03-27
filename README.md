@@ -1,3 +1,11 @@
+
+
+https://arxiv.org/abs/2402.16014
+rhttps://share.google/comeWst1TVoyCvJRw
+https://medium.com/@mdpman/%EB%AC%BC%EB%A6%AC%ED%95%99-%ED%8C%8C%EC%9A%B4%EB%8D%B0%EC%9D%B4%EC%85%98-%EB%AA%A8%EB%8D%B8%EC%9D%84-%ED%96%A5%ED%95%98%EC%97%AC-towards-a-physics-foundation-model-893f5074c69b
+
+
+
 https://g.co/gemini/share/0c68ea136469
 https://gemini.google.com/share/7e5ae8f2e324
 
